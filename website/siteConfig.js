@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Emily Hamberg', // Title for your website.
-    tagline: 'Always curious, continously learning',
+    tagline: 'Minneapolis-based Software Quality Assurance (QA) Engineer',
     profilePhoto: 'img/profile.png',
     url: 'https://emilyhamberg.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
